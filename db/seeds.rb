@@ -7,8 +7,10 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 m1 = Mynote.create!(content: "We're at the beach so you should meet us here! I make a mean sandcastle. :)")
-
 m2 = Mynote.create!(content: "Let's meet there!")
+m3 = Mynote.create!(content: "Wait a minute. Are you bringing sun screen?")
+m4 = Mynote.create!(content: "No, I just cover myself in mud.")
+
 
 
 
