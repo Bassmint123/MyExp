@@ -14,8 +14,8 @@ m4 = Mynote.create!(content: "No, I just cover myself in mud.")
 
 
 
-t1 = Tag.create(title: "Beaches", image: "http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/beach01.jpg")
-t2 = Tag.create(title: "History", image: "http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/history01.jpg")
-t3 = Tag.create(title: "Skiing", image: "http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/skiing01.jpg")
-t4 = Tag.create(title: "Adventure", image: "http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/adventure01.jpg")
-t5 = Tag.create(title: "Family", image: "http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/family01.jpg")
+t1 = Tag.create(title: "Beaches", image: "beach01.jpg")
+t2 = Tag.create(title: "History", image: "history01.jpg")
+t3 = Tag.create(title: "Skiing", image: "skiing01.jpg")
+t4 = Tag.create(title: "Adventure", image: "adventure01.jpg")
+t5 = Tag.create(title: "Family", image: "family01.jpg")
